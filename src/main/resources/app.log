@@ -1,0 +1,385 @@
+2023-08-10 19:53:30,762 INFO org.example.Application [restartedMain] Starting Application using Java 13.0.2 on PC9-CAB4 with PID 10524 (C:\Users\gk\IdeaProjects\TelegremBot\target\classes started by gk in C:\Users\gk\IdeaProjects\TelegremBot)
+2023-08-10 19:53:30,765 INFO org.example.Application [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-10 19:53:30,816 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 19:53:30,816 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 19:53:31,885 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-08-10 19:53:31,897 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 19:53:31,898 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-08-10 19:53:31,898 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-08-10 19:53:31,995 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-08-10 19:53:31,995 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1178 ms
+2023-08-10 19:53:32,530 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-08-10 19:53:32,546 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 19:53:32,614 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-10 19:53:33,087 INFO org.example.Application [restartedMain] Started Application in 2.786 seconds (JVM running for 3.773)
+2023-08-10 19:53:48,133 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 19:54:06,014 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 19:54:08,077 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 19:56:40,626 INFO org.example.Application [restartedMain] Starting Application using Java 13.0.2 on PC9-CAB4 with PID 6372 (C:\Users\gk\IdeaProjects\TelegremBot\target\classes started by gk in C:\Users\gk\IdeaProjects\TelegremBot)
+2023-08-10 19:56:40,632 INFO org.example.Application [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-10 19:56:40,704 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 19:56:40,704 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 19:56:42,127 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-08-10 19:56:42,140 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 19:56:42,141 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-08-10 19:56:42,141 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-08-10 19:56:42,228 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-08-10 19:56:42,228 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1522 ms
+2023-08-10 19:56:42,881 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-08-10 19:56:42,900 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 19:56:42,969 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-10 19:56:43,438 INFO org.example.Application [restartedMain] Started Application in 3.344 seconds (JVM running for 4.514)
+2023-08-10 19:57:50,733 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 19:59:53,383 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 20:06:02,588 INFO org.example.Application [restartedMain] Starting Application using Java 13.0.2 on PC9-CAB4 with PID 1688 (C:\Users\gk\IdeaProjects\TelegremBot\target\classes started by gk in C:\Users\gk\IdeaProjects\TelegremBot)
+2023-08-10 20:06:02,591 INFO org.example.Application [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-10 20:06:02,643 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 20:06:02,643 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 20:06:03,746 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-08-10 20:06:03,757 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:06:03,757 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-08-10 20:06:03,757 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-08-10 20:06:03,842 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-08-10 20:06:03,842 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1198 ms
+2023-08-10 20:06:04,935 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-08-10 20:06:04,951 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:06:05,018 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-10 20:06:05,117 INFO org.example.Application [restartedMain] Started Application in 2.966 seconds (JVM running for 4.229)
+2023-08-10 20:06:17,153 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 20:34:42,428 INFO org.example.Application [restartedMain] Starting Application using Java 13.0.2 on PC9-CAB4 with PID 1792 (C:\Users\gk\IdeaProjects\TelegremBot\target\classes started by gk in C:\Users\gk\IdeaProjects\TelegremBot)
+2023-08-10 20:34:42,431 INFO org.example.Application [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-10 20:34:42,489 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 20:34:42,489 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 20:34:43,409 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-08-10 20:34:43,476 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 50 ms. Found 1 JPA repository interfaces.
+2023-08-10 20:34:44,166 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-08-10 20:34:44,175 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:34:44,176 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-08-10 20:34:44,176 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-08-10 20:34:44,286 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-08-10 20:34:44,287 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1797 ms
+2023-08-10 20:34:44,319 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-08-10 20:34:44,583 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-08-10 20:34:44,597 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [restartedMain] H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:dbase'
+2023-08-10 20:34:44,771 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-08-10 20:34:44,846 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.11.Final
+2023-08-10 20:34:45,083 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-08-10 20:34:45,266 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-08-10 20:34:46,306 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-08-10 20:34:46,319 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-08-10 20:34:47,415 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-08-10 20:34:47,792 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-08-10 20:34:47,814 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:34:47,915 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-10 20:34:48,014 INFO org.example.Application [restartedMain] Started Application in 6.082 seconds (JVM running for 7.176)
+2023-08-10 20:35:04,329 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 20:35:04,333 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [kepik_bot Telegram Executor] null
+java.lang.NullPointerException: null
+	at org.example.TelegramBot.saveUser(TelegramBot.java:75)
+	at org.example.TelegramBot.onUpdateReceived(TelegramBot.java:63)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+2023-08-10 20:35:20,046 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-6] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-10 20:35:20,049 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-6] Initializing Servlet 'dispatcherServlet'
+2023-08-10 20:35:20,051 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-6] Completed initialization in 1 ms
+2023-08-10 20:37:38,081 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-08-10 20:37:38,427 WARN org.springframework.beans.factory.support.DisposableBeanAdapter [SpringApplicationShutdownHook] Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: База данных уже закрыта (чтобы отключить автоматическое закрытие базы данных при останове JVM, добавьте ";DB_CLOSE_ON_EXIT=FALSE" в URL)
+Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-08-10 20:37:38,428 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-08-10 20:37:38,491 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-08-10 20:37:44,611 INFO org.example.Application [restartedMain] Starting Application using Java 13.0.2 on PC9-CAB4 with PID 7192 (C:\Users\gk\IdeaProjects\TelegremBot\target\classes started by gk in C:\Users\gk\IdeaProjects\TelegremBot)
+2023-08-10 20:37:44,614 INFO org.example.Application [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-10 20:37:44,665 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 20:37:44,665 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 20:37:45,461 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-08-10 20:37:45,534 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 56 ms. Found 1 JPA repository interfaces.
+2023-08-10 20:37:46,197 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-08-10 20:37:46,206 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:37:46,206 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-08-10 20:37:46,206 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-08-10 20:37:46,316 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-08-10 20:37:46,317 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1651 ms
+2023-08-10 20:37:46,346 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-08-10 20:37:46,587 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-08-10 20:37:46,601 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [restartedMain] H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:dbase'
+2023-08-10 20:37:46,766 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-08-10 20:37:46,827 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.11.Final
+2023-08-10 20:37:47,038 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-08-10 20:37:47,186 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-08-10 20:37:47,880 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-08-10 20:37:47,889 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-08-10 20:37:48,863 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-08-10 20:37:49,228 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-08-10 20:37:49,249 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:37:49,324 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-10 20:37:49,422 INFO org.example.Application [restartedMain] Started Application in 5.25 seconds (JVM running for 6.358)
+2023-08-10 20:37:54,034 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 20:37:54,081 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [kepik_bot Telegram Executor] null
+java.lang.NullPointerException: null
+	at org.example.TelegramBot.saveUser(TelegramBot.java:77)
+	at org.example.TelegramBot.onUpdateReceived(TelegramBot.java:63)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+2023-08-10 20:38:39,455 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-08-10 20:38:39,598 ERROR com.zaxxer.hikari.pool.HikariPool [HikariPool-1 connection adder] HikariPool-1 - Error thrown while acquiring connection from data source
+org.h2.jdbc.JdbcSQLNonTransientConnectionException: База данных открыта в эксклюзивном режиме, открыть дополнительные соединения невозможно
+The database is open in exclusive mode; can not open additional connections [90135-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:678)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.engine.SessionLocal.checkSuspended(SessionLocal.java:1240)
+	at org.h2.engine.SessionLocal.transitionToState(SessionLocal.java:1232)
+	at org.h2.engine.SessionLocal.setCurrentCommand(SessionLocal.java:1210)
+	at org.h2.engine.SessionLocal.startStatementWithinTransaction(SessionLocal.java:1658)
+	at org.h2.command.Command.executeQuery(Command.java:184)
+	at org.h2.jdbc.JdbcConnection.isReadOnly(JdbcConnection.java:538)
+	at com.zaxxer.hikari.pool.PoolBase.setupConnection(PoolBase.java:408)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:369)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at com.zaxxer.hikari.pool.HikariPool.access$100(HikariPool.java:71)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:726)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:712)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+2023-08-10 20:38:39,812 WARN org.springframework.beans.factory.support.DisposableBeanAdapter [SpringApplicationShutdownHook] Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: База данных уже закрыта (чтобы отключить автоматическое закрытие базы данных при останове JVM, добавьте ";DB_CLOSE_ON_EXIT=FALSE" в URL)
+Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-08-10 20:38:39,813 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-08-10 20:38:39,861 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-08-10 20:39:08,253 INFO org.example.Application [restartedMain] Starting Application using Java 13.0.2 on PC9-CAB4 with PID 11400 (C:\Users\gk\IdeaProjects\TelegremBot\target\classes started by gk in C:\Users\gk\IdeaProjects\TelegremBot)
+2023-08-10 20:39:08,256 INFO org.example.Application [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-10 20:39:08,310 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 20:39:08,310 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 20:39:09,034 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-08-10 20:39:09,084 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 42 ms. Found 1 JPA repository interfaces.
+2023-08-10 20:39:09,692 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-08-10 20:39:09,700 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:39:09,701 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-08-10 20:39:09,701 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-08-10 20:39:09,809 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-08-10 20:39:09,809 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1498 ms
+2023-08-10 20:39:09,838 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-08-10 20:39:10,068 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-08-10 20:39:10,081 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [restartedMain] H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:dbase'
+2023-08-10 20:39:10,245 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-08-10 20:39:10,310 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.11.Final
+2023-08-10 20:39:10,503 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-08-10 20:39:10,641 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-08-10 20:39:11,284 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-08-10 20:39:11,294 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-08-10 20:39:12,212 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-08-10 20:39:12,521 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-08-10 20:39:12,546 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:39:12,616 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-10 20:39:12,709 INFO org.example.Application [restartedMain] Started Application in 4.897 seconds (JVM running for 5.791)
+2023-08-10 20:39:20,455 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 20:39:20,516 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [kepik_bot Telegram Executor] null
+java.lang.NullPointerException: null
+	at org.example.TelegramBot.saveUser(TelegramBot.java:78)
+	at org.example.TelegramBot.onUpdateReceived(TelegramBot.java:63)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+2023-08-10 20:42:22,177 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-08-10 20:42:22,529 WARN org.springframework.beans.factory.support.DisposableBeanAdapter [SpringApplicationShutdownHook] Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: База данных уже закрыта (чтобы отключить автоматическое закрытие базы данных при останове JVM, добавьте ";DB_CLOSE_ON_EXIT=FALSE" в URL)
+Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-08-10 20:42:22,530 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-08-10 20:42:22,578 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-08-10 20:42:28,489 INFO org.example.Application [restartedMain] Starting Application using Java 13.0.2 on PC9-CAB4 with PID 3156 (C:\Users\gk\IdeaProjects\TelegremBot\target\classes started by gk in C:\Users\gk\IdeaProjects\TelegremBot)
+2023-08-10 20:42:28,492 INFO org.example.Application [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-10 20:42:28,549 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 20:42:28,549 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 20:42:29,337 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-08-10 20:42:29,394 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 46 ms. Found 1 JPA repository interfaces.
+2023-08-10 20:42:30,071 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-08-10 20:42:30,080 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:42:30,080 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-08-10 20:42:30,080 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-08-10 20:42:30,187 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-08-10 20:42:30,187 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1638 ms
+2023-08-10 20:42:30,218 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-08-10 20:42:30,458 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-08-10 20:42:30,470 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [restartedMain] H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:dbase'
+2023-08-10 20:42:30,659 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-08-10 20:42:30,738 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.11.Final
+2023-08-10 20:42:30,962 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-08-10 20:42:31,116 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-08-10 20:42:31,820 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-08-10 20:42:31,832 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-08-10 20:42:32,841 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-08-10 20:42:33,182 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-08-10 20:42:33,202 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:42:33,272 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-10 20:42:33,370 INFO org.example.Application [restartedMain] Started Application in 5.323 seconds (JVM running for 6.523)
+2023-08-10 20:42:38,050 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 20:42:38,094 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [kepik_bot Telegram Executor] null
+java.lang.NullPointerException: null
+	at org.example.TelegramBot.saveUser(TelegramBot.java:79)
+	at org.example.TelegramBot.onUpdateReceived(TelegramBot.java:63)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+2023-08-10 20:42:42,663 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 20:42:42,665 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [kepik_bot Telegram Executor] null
+java.lang.NullPointerException: null
+	at org.example.TelegramBot.saveUser(TelegramBot.java:79)
+	at org.example.TelegramBot.onUpdateReceived(TelegramBot.java:63)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+2023-08-10 20:44:22,839 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-08-10 20:44:23,089 ERROR com.zaxxer.hikari.pool.HikariPool [HikariPool-1 connection adder] HikariPool-1 - Error thrown while acquiring connection from data source
+org.h2.jdbc.JdbcSQLNonTransientConnectionException: База данных открыта в эксклюзивном режиме, открыть дополнительные соединения невозможно
+The database is open in exclusive mode; can not open additional connections [90135-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:678)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.engine.SessionLocal.checkSuspended(SessionLocal.java:1240)
+	at org.h2.engine.SessionLocal.isOpen(SessionLocal.java:1173)
+	at org.h2.engine.SessionLocal.waitIfExclusiveModeEnabled(SessionLocal.java:1486)
+	at org.h2.command.Command.executeQuery(Command.java:180)
+	at org.h2.jdbc.JdbcConnection.isReadOnly(JdbcConnection.java:538)
+	at com.zaxxer.hikari.pool.PoolBase.setupConnection(PoolBase.java:408)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:369)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at com.zaxxer.hikari.pool.HikariPool.access$100(HikariPool.java:71)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:726)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:712)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+2023-08-10 20:44:23,180 WARN org.springframework.beans.factory.support.DisposableBeanAdapter [SpringApplicationShutdownHook] Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: База данных уже закрыта (чтобы отключить автоматическое закрытие базы данных при останове JVM, добавьте ";DB_CLOSE_ON_EXIT=FALSE" в URL)
+Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-08-10 20:44:23,181 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-08-10 20:44:23,351 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-08-10 20:44:30,086 INFO org.example.Application [restartedMain] Starting Application using Java 13.0.2 on PC9-CAB4 with PID 7000 (C:\Users\gk\IdeaProjects\TelegremBot\target\classes started by gk in C:\Users\gk\IdeaProjects\TelegremBot)
+2023-08-10 20:44:30,089 INFO org.example.Application [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-10 20:44:30,160 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 20:44:30,160 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 20:44:31,142 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-08-10 20:44:31,199 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 43 ms. Found 1 JPA repository interfaces.
+2023-08-10 20:44:31,904 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-08-10 20:44:31,914 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:44:31,915 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-08-10 20:44:31,915 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-08-10 20:44:32,027 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-08-10 20:44:32,027 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1866 ms
+2023-08-10 20:44:32,057 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-08-10 20:44:32,305 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-08-10 20:44:32,321 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [restartedMain] H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:dbase'
+2023-08-10 20:44:32,500 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-08-10 20:44:32,575 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.11.Final
+2023-08-10 20:44:32,830 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-08-10 20:44:32,980 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-08-10 20:44:33,745 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-08-10 20:44:33,758 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-08-10 20:44:34,824 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-08-10 20:44:35,192 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-08-10 20:44:35,213 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:44:35,292 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-10 20:44:35,400 INFO org.example.Application [restartedMain] Started Application in 5.904 seconds (JVM running for 7.001)
+2023-08-10 20:44:51,668 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 20:44:51,715 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [kepik_bot Telegram Executor] null
+java.lang.NullPointerException: null
+	at org.example.TelegramBot.saveUser(TelegramBot.java:81)
+	at org.example.TelegramBot.onUpdateReceived(TelegramBot.java:63)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+2023-08-10 20:45:15,320 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-08-10 20:45:15,442 ERROR com.zaxxer.hikari.pool.HikariPool [HikariPool-1 connection adder] HikariPool-1 - Error thrown while acquiring connection from data source
+org.h2.jdbc.JdbcSQLNonTransientConnectionException: База данных открыта в эксклюзивном режиме, открыть дополнительные соединения невозможно
+The database is open in exclusive mode; can not open additional connections [90135-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:678)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.engine.SessionLocal.checkSuspended(SessionLocal.java:1240)
+	at org.h2.engine.SessionLocal.transitionToState(SessionLocal.java:1232)
+	at org.h2.engine.SessionLocal.setCurrentCommand(SessionLocal.java:1210)
+	at org.h2.engine.SessionLocal.startStatementWithinTransaction(SessionLocal.java:1658)
+	at org.h2.command.Command.executeQuery(Command.java:184)
+	at org.h2.jdbc.JdbcConnection.isReadOnly(JdbcConnection.java:538)
+	at com.zaxxer.hikari.pool.PoolBase.setupConnection(PoolBase.java:408)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:369)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at com.zaxxer.hikari.pool.HikariPool.access$100(HikariPool.java:71)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:726)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:712)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+2023-08-10 20:45:15,643 WARN org.springframework.beans.factory.support.DisposableBeanAdapter [SpringApplicationShutdownHook] Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: База данных уже закрыта (чтобы отключить автоматическое закрытие базы данных при останове JVM, добавьте ";DB_CLOSE_ON_EXIT=FALSE" в URL)
+Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-08-10 20:45:15,644 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-08-10 20:45:15,707 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-08-10 20:45:21,261 INFO org.example.Application [restartedMain] Starting Application using Java 13.0.2 on PC9-CAB4 with PID 5344 (C:\Users\gk\IdeaProjects\TelegremBot\target\classes started by gk in C:\Users\gk\IdeaProjects\TelegremBot)
+2023-08-10 20:45:21,265 INFO org.example.Application [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-10 20:45:21,318 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-10 20:45:21,318 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-10 20:45:22,062 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-08-10 20:45:22,123 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 49 ms. Found 1 JPA repository interfaces.
+2023-08-10 20:45:22,775 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-08-10 20:45:22,784 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:45:22,784 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-08-10 20:45:22,784 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-08-10 20:45:22,891 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-08-10 20:45:22,892 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1573 ms
+2023-08-10 20:45:22,920 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-08-10 20:45:23,152 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-08-10 20:45:23,164 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [restartedMain] H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:dbase'
+2023-08-10 20:45:23,338 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-08-10 20:45:23,404 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.11.Final
+2023-08-10 20:45:23,589 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-08-10 20:45:23,717 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-08-10 20:45:24,372 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-08-10 20:45:24,382 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-08-10 20:45:25,349 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-08-10 20:45:25,687 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-08-10 20:45:25,707 INFO org.apache.coyote.http11.Http11NioProtocol [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-08-10 20:45:25,774 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-08-10 20:45:25,876 INFO org.example.Application [restartedMain] Started Application in 5.054 seconds (JVM running for 5.968)
+2023-08-10 20:45:30,752 INFO org.example.TelegramBot [kepik_bot Telegram Executor] Replied to user: Владислав
+2023-08-10 20:45:30,853 INFO org.example.TelegramBot [kepik_bot Telegram Executor] user saved : User(chatId=453355030, firstName=Владислав, lastName=Капусто, userName=officialkepik, registeredAt=2023-08-10 20:45:30.799)
+2023-08-10 20:49:33,044 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-08-10 20:49:33,300 ERROR com.zaxxer.hikari.pool.HikariPool [HikariPool-1 connection adder] HikariPool-1 - Error thrown while acquiring connection from data source
+org.h2.jdbc.JdbcSQLNonTransientConnectionException: База данных открыта в эксклюзивном режиме, открыть дополнительные соединения невозможно
+The database is open in exclusive mode; can not open additional connections [90135-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:678)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.engine.SessionLocal.checkSuspended(SessionLocal.java:1240)
+	at org.h2.engine.SessionLocal.isOpen(SessionLocal.java:1173)
+	at org.h2.engine.SessionLocal.waitIfExclusiveModeEnabled(SessionLocal.java:1486)
+	at org.h2.command.Command.executeQuery(Command.java:180)
+	at org.h2.jdbc.JdbcConnection.isReadOnly(JdbcConnection.java:538)
+	at com.zaxxer.hikari.pool.PoolBase.setupConnection(PoolBase.java:408)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:369)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at com.zaxxer.hikari.pool.HikariPool.access$100(HikariPool.java:71)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:726)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:712)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+2023-08-10 20:49:33,392 WARN org.springframework.beans.factory.support.DisposableBeanAdapter [SpringApplicationShutdownHook] Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: База данных уже закрыта (чтобы отключить автоматическое закрытие базы данных при останове JVM, добавьте ";DB_CLOSE_ON_EXIT=FALSE" в URL)
+Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2023-08-10 20:49:33,393 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-08-10 20:49:33,566 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
