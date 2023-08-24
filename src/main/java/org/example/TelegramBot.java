@@ -18,6 +18,10 @@ import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.InlineKe
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardRow;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
+// ----------
+
+// ----------
+
 import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.List;
@@ -29,11 +33,15 @@ public class TelegramBot extends TelegramLongPollingBot {
 
     private final UserRepository userRepository;
     private final BotConfig botConfig;
+    // Vlad Id !
+    private long myId = 453355030L;
 
     @Autowired
     public TelegramBot(BotConfig botConfig, UserRepository userRepository) {
         this.botConfig = botConfig;
         List<BotCommand> botCommands = new ArrayList<>();
+        botCommands.add(new BotCommand("/myId", "get a Id"));
+        botCommands.add(new BotCommand("/sendToUser", "secret test command"));
         botCommands.add(new BotCommand("/hello", "get a welcome message"));
         botCommands.add(new BotCommand("/help", "get an info"));
         botCommands.add(new BotCommand("/register", "registration in system"));
@@ -59,12 +67,17 @@ public class TelegramBot extends TelegramLongPollingBot {
     public void onUpdateReceived(Update update) {
         String text = null;
         if (update.hasMessage() && update.getMessage().hasText()) {
-            //System.out.println("ok");
             text = update.getMessage().getText();
             long chatId = update.getMessage().getChatId();
             String firstName = update.getMessage().getChat().getFirstName();
 
             switch (text) {
+                case "/myId":
+                    sendMessage(chatId, "Your Id : " + chatId);
+                    break;
+                case "/sendToUser":
+                    sendToUser(myId, chatId);
+                    break;
                 case "/hello":
                     hello(chatId, firstName);
                     saveUser(update.getMessage());
@@ -98,6 +111,10 @@ public class TelegramBot extends TelegramLongPollingBot {
         }
     }
 
+    private void sendToUser(long myId, long chatId){
+        sendMessage(myId, " User send message : chatId : " + chatId);
+    }
+
     private void saveUser(Message message) {
         if (userRepository.findById(message.getChatId()).isEmpty()) {
             User user = new User();
@@ -105,9 +122,7 @@ public class TelegramBot extends TelegramLongPollingBot {
             user.setFirstName(message.getChat().getFirstName());
             user.setLastName(message.getChat().getLastName());
             user.setUserName(message.getChat().getUserName());
-            // phone number :)
             user.setRegisteredAt(new Timestamp(System.currentTimeMillis()));
-
             userRepository.save(user);
             log.info("user saved : {}", user);
         }
